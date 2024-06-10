@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "components"
+		},
+		{
+			"path": "constants"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "img2"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "utils"
+		}
+	]
+}
